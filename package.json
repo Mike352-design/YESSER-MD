@@ -20,6 +20,7 @@
     "@whiskeysockets/baileys": "^6.7.5",
     "@xaviabot/fb-downloader": "^1.0.14",
     "acrcloud": "^1.4.0",
+    "@sasmeee/igdl": "npm:@sasmeee/igdl",
     "api-dylux": "^1.8.3",
     "aptoide-scraper": "^1.0.1",
     "awesome-phonenumber": "^6.8.0",
@@ -40,7 +41,7 @@
     "jsqr": "^1.4.0",
     "libphonenumber": "^0.0.10",
     "moment-timezone": "^0.5.45",
-    "nayan-media-downloader": "^2.6.7",
+    "play-dl": "^1.9.7",
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
     "node-fetch": "^3.3.2",
@@ -61,6 +62,6 @@
     "uuid": "^9.0.1",
     "wasitech": "npm:@distube/ytdl-core",
     "yt-search": "^2.11.0",
-    "ytdl-core": "^4.11.2"
+    "ytdl-core": "npm:@distube/ytdl-core"
   }
 }
